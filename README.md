@@ -6,3 +6,11 @@
 ![Platforms](https://img.shields.io/badge/Platforms-BOJ%20%7C%20Programmers-blue)
 
 This repository is designed to systematically document and share coding test problems solved on Baekjoon Online Judge (BOJ) and Programmers.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/pocketopii/Pocketopi/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
