@@ -13,5 +13,6 @@ This repository is designed to systematically document and share coding test pro
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/pocketopii/Pocketopi/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/pocketopii/Pocketopi/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pocketopii/Pocketopi/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
