@@ -29,6 +29,7 @@ This repository is designed to systematically document and share coding test pro
 | [1182-game-play-analysis-iv](https://github.com/pocketopii/Pocketopi/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/pocketopii/Pocketopi/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/pocketopii/Pocketopi/tree/master/1258-article-views-i) |
+| [1278-product-price-at-a-given-date](https://github.com/pocketopii/Pocketopi/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/pocketopii/Pocketopi/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/pocketopii/Pocketopi/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/pocketopii/Pocketopi/tree/master/1338-queries-quality-and-percentage) |
