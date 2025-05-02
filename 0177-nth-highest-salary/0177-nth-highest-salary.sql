@@ -1,0 +1,11 @@
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+BEGIN
+    DECLARE VAL INT;
+    SET VAL= N-1;
+  RETURN (
+        SELECT DISTINCT SALARY AS 'GetNthHighestSalary(2)'
+        FROM EMPLOYEE
+        ORDER BY SALARY DESC
+        LIMIT 1 OFFSET VAL
+  );
+END
