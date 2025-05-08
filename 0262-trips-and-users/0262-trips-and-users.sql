@@ -1,0 +1,16 @@
+WITH CTE AS (
+    SELECT *
+    FROM TRIPS
+    WHERE CLIENT_ID NOT IN (SELECT USERS_ID
+                            FROM USERS
+                            WHERE BANNED = 'Yes')
+        AND DRIVER_ID NOT IN (SELECT USERS_ID
+                              FROM USERS
+                              WHERE BANNED = 'Yes')
+        AND REQUEST_AT BETWEEN '2013-10-01' AND '2013-10-03')
+
+SELECT REQUEST_AT AS DAY,
+    ROUND(IFNULL(SUM(CASE WHEN STATUS LIKE 'CANCELLED%' THEN 1 ELSE 0 END), 0)
+    / NULLIF(COUNT(*), 0), 2) AS 'CANCELLATION RATE'
+FROM CTE
+GROUP BY REQUEST_AT;
