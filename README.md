@@ -75,6 +75,7 @@ This repository is designed to systematically document and share coding test pro
 | [1801-average-time-of-process-per-machine](https://github.com/pocketopii/Pocketopi/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/pocketopii/Pocketopi/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/pocketopii/Pocketopi/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/pocketopii/Pocketopi/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/pocketopii/Pocketopi/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/pocketopii/Pocketopi/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pocketopii/Pocketopi/tree/master/1908-recyclable-and-low-fat-products) |
