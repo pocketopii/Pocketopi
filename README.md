@@ -78,6 +78,7 @@ This repository is designed to systematically document and share coding test pro
 | [1837-daily-leads-and-partners](https://github.com/pocketopii/Pocketopi/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/pocketopii/Pocketopi/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/pocketopii/Pocketopi/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/pocketopii/Pocketopi/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pocketopii/Pocketopi/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/pocketopii/Pocketopi/tree/master/1942-primary-department-for-each-employee) |
 | [2024-calculate-special-bonus](https://github.com/pocketopii/Pocketopi/tree/master/2024-calculate-special-bonus) |
