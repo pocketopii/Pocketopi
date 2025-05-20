@@ -90,4 +90,5 @@ This repository is designed to systematically document and share coding test pro
 | [2127-employees-whose-manager-left-the-company](https://github.com/pocketopii/Pocketopi/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pocketopii/Pocketopi/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3530-odd-and-even-transactions](https://github.com/pocketopii/Pocketopi/tree/master/3530-odd-and-even-transactions) |
+| [3767-find-students-who-improved](https://github.com/pocketopii/Pocketopi/tree/master/3767-find-students-who-improved) |
 <!---LeetCode Topics End-->
