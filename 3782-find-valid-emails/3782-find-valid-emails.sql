@@ -1,0 +1,4 @@
+SELECT USER_ID, EMAIL
+FROM USERS
+WHERE EMAIL REGEXP '^[a-zA-Z0-9_]*@[a-zA-Z]+\\.com$'
+    AND EMAIL NOT LIKE '%..%'
