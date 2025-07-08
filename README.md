@@ -92,4 +92,5 @@ This repository is designed to systematically document and share coding test pro
 | [3530-odd-and-even-transactions](https://github.com/pocketopii/Pocketopi/tree/master/3530-odd-and-even-transactions) |
 | [3767-find-students-who-improved](https://github.com/pocketopii/Pocketopi/tree/master/3767-find-students-who-improved) |
 | [3782-find-valid-emails](https://github.com/pocketopii/Pocketopi/tree/master/3782-find-valid-emails) |
+| [3816-dna-pattern-recognition](https://github.com/pocketopii/Pocketopi/tree/master/3816-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
