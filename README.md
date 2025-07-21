@@ -94,4 +94,5 @@ This repository is designed to systematically document and share coding test pro
 | [3782-find-valid-emails](https://github.com/pocketopii/Pocketopi/tree/master/3782-find-valid-emails) |
 | [3816-dna-pattern-recognition](https://github.com/pocketopii/Pocketopi/tree/master/3816-dna-pattern-recognition) |
 | [3910-find-books-with-no-available-copies](https://github.com/pocketopii/Pocketopi/tree/master/3910-find-books-with-no-available-copies) |
+| [3932-find-covid-recovery-patients](https://github.com/pocketopii/Pocketopi/tree/master/3932-find-covid-recovery-patients) |
 <!---LeetCode Topics End-->
